@@ -1,14 +1,9 @@
-[![MasterHead](https://goldtop.live/service/details/17_Mobile%20App%20Development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sandeep Sahani</h1>
-<h3 align="center">iOS Development Learner</h3>
+<h3 align="center">Aspiring iOS Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepsahanicodes&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepsahanicodes" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sandeepiosdev" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepiosdev?logo=twitter&style=for-the-badge" alt="sandeepiosdev" /></a> </p>
-
-- 💬 Ask me about **iOS Development**
-
-- 📫 How to reach me **sandeepsahani76j@gmail.com**
+- 🌱 Currently learning Swift, iOS Development, Data Structures and Algorithms.
+- 💬 Ask me about **iOS Development, Programming**.
+- 📫 How to reach me **sandeepsahani76j@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
