@@ -1,7 +1,6 @@
 [![MasterHead](https://goldtop.live/service/details/17_Mobile%20App%20Development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sandeep Sahani</h1>
 <h3 align="center">iOS Development Learner</h3>
-<img align="right" alt="Coding" width="400"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepsahanicodes&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepsahanicodes" /> </p>
 
