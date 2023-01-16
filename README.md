@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepsahanicodes&show_icons=true&locale=en&layout=compact" alt="sandeepsahanicodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepsahanicodes&show_icons=true&locale=en" alt="sandeepsahanicodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepsahanicodes&show_icons=true&locale=en" alt="sandeepsahanicodes"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepsahanicodes&" alt="sandeepsahanicodes" /></p>
