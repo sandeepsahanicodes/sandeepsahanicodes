@@ -21,8 +21,6 @@
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepsahanicodes&show_icons=true&locale=en" alt="sandeepsahanicodes" />
     </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepsahanicodes&" alt="sandeepsahanicodes" />
-    </td>
+  
    </tr>
 </table>
