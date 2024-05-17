@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Sahani</h1>
-<h3 align="center">Aspiring iOS Development</h3>
+<h3 align="center">Junior iOS Development</h3>
 
 - 🌱 Currently learning Swift, iOS Development, Data Structures and Algorithms.
 - 💬 **iOS Development, Programming**.
