@@ -2,7 +2,7 @@
 <h3 align="center">Junior iOS Developer</h3>
 
 - 🌱 Mastering Swift and iOS Development
-- 📫 **sandeepsahani76j@gmail.com**.
+- 📫 **sandeepsahani76j@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
