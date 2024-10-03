@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Sahani</h1>
 <h3 align="center">Junior iOS Developer</h3>
 
-- 🌱 Mastering Swift and iOS Development
+- 🌱 Hello everyone, I'm Sandeep Sahani, a Computer Science graduate with a passion for Swift and iOS development. Currently, I'm honing my skills in mobile app development, while also exploring embedded systems and electronics. Looking ahead, I'm eager to expand my expertise with web technologies, aiming to become a versatile software engineer capable of tackling a variety of challenges.
 - 📫 **sandeepsahani76j@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
