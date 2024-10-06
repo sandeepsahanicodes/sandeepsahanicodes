@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sandeep Sahani</h1>
-<h3 align="center">Junior iOS Developer</h3>
+# About
 
-- 🌱 Hello everyone, I'm Sandeep Sahani, a Computer Science graduate with a passion for Swift and iOS development. Currently, I'm honing my skills in mobile app development, while also exploring embedded systems and electronics. Looking ahead, I'm eager to expand my expertise with web technologies, aiming to become a versatile software engineer capable of tackling a variety of challenges.
-- 📫 **sandeepsahani76j@gmail.com**
+Hello everyone, I'm Sandeep Sahani, a Computer Science graduate with a passion for Swift and iOS development. Currently, I'm honing my skills in mobile app development, while also exploring embedded systems and electronics. Looking ahead, I'm eager to expand my expertise with web technologies, aiming to become a versatile software engineer capable of tackling a variety of challenges.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -10,6 +8,8 @@
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></p>
+
+## Github Stats
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
