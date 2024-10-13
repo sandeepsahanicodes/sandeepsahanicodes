@@ -14,6 +14,3 @@ Hello everyone, I'm Sandeep Sahani, a Computer Science graduate with a passion f
 <a href="https://github.com/EthanJamesLew/github-readme-stats-academic">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepsahanicodes" />
 </a>
-<a href="https://github.com/EthanJamesLew/github-readme-stats-academic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepsahanicodes&layout=compact" />
-</a>
