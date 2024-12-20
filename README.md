@@ -1,7 +1,6 @@
 # About
 
 - Hello everyone, I'm Sandeep Sahani, a Computer Science graduate with a passion for Swift and iOS development.
-- Currently working as an intern at Salesamore.
 - I'm honing my skills in mobile app development, while also exploring embedded systems and electronics. Looking ahead, I'm eager to expand my expertise with web technologies, aiming to become a versatile software developer capable of tackling a variety of challenges.
 
 <h3 align="left">Connect with me:</h3>
