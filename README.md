@@ -1,7 +1,7 @@
 # About
 
-- Hello everyone, I'm Sandeep Sahani, A computer science graduate with a passion for Swift and iOS development.
-- I'm honing my skills in mobile app development, while also exploring embedded systems and electronics. Looking ahead, I'm eager to expand my expertise with web technologies, aiming to become a versatile software developer capable of tackling a variety of challenges.
+- Hello, I'm Sandeep Sahani, A computer science graduate with intrest in core electronics and low level programming.
+- Currently, getting trained in laptop repairing.
 
 <h3 align="left">Connect with me:</h3>
 
