@@ -1,7 +1,6 @@
 # About
 
-- Hello, I'm Sandeep Sahani, A computer science graduate with intrest in electronics and low level programming.
-- Currently, getting trained in laptop repairing.
+- Hello, I'm Sandeep Sahani, A computer science graduate. Currently, getting trained in laptop repairing.
 
 <h3 align="left">Connect with me:</h3>
 
